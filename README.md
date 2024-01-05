@@ -1,2 +1,2 @@
-# SAFEQ Cloud web page
+# safeqcloud.github.io
 Kudos to keecz :)
